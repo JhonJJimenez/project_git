@@ -1,0 +1,78 @@
+[33mcommit e11943d12cfd7a00b63cbb83860b1a7b96d8ab49[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Wed Mar 12 07:08:44 2025 -0500
+
+    Ultimo reporte de cambios
+
+[33mcommit 175692246ed05ee08cd5b6cfb372e41b2f6a8c74[m[33m ([m[1;33mtag: [m[1;33mFinal[m[33m)[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Tue Mar 11 15:02:19 2025 -0500
+
+    Ultimo cargue de prueba
+
+[33mcommit 35103fc43a6dd2f41102b63d3ff737692bc3a6ed[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Tue Mar 11 08:21:59 2025 -0500
+
+    index on master: 55ec3c2 correccion conflicto
+
+[33mcommit 55ec3c2b52027c81167852c1f445d18a4888f4ea[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: c98e950 c4ee74d
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Tue Mar 11 06:42:20 2025 -0500
+
+    correccion conflicto
+
+[33mcommit c98e9502cc1857cf08a3964efb265eefb2fc8a3e[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Tue Mar 11 06:37:52 2025 -0500
+
+    edicion de hello git 2 master
+
+[33mcommit c4ee74d28c28638b809c08e0ae72f6fdb89816a0[m[33m ([m[1;32mlogin[m[33m)[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Tue Mar 11 06:36:21 2025 -0500
+
+    edicion de hello git 2 login
+
+[33mcommit 6a02c82f1613998ae79c2a882f163ba0420b9e45[m[33m ([m[1;33mtag: [m[1;33mlogin_2[m[33m)[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Tue Mar 11 06:17:32 2025 -0500
+
+    Se inserta login 2
+
+[33mcommit 8bab2c13426811d1cdc7232e6ea82cafbd2d025d[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Mon Mar 10 14:38:33 2025 -0500
+
+    Login
+
+[33mcommit 97f54f405506324bc7a81050feca0294491e1a84[m[33m ([m[1;33mtag: [m[1;33mclase_2[m[33m)[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Mon Mar 10 14:12:00 2025 -0500
+
+    Se ingresa el nuevo documento .py
+
+[33mcommit 7d104ac0a9dfc51d026641ee90347526db8c9fd3[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Mon Mar 10 13:47:55 2025 -0500
+
+    Ultimo commit
+
+[33mcommit 588a30e4cf95a073b5d5ff7f8e0dfc39900562ec[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Mon Mar 10 07:08:14 2025 -0500
+
+    Actualizaion de git.py
+
+[33mcommit 3672749f19123ff1032b7330f1752959fb5574dd[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Mon Mar 10 07:01:24 2025 -0500
+
+    Segundo commit
+
+[33mcommit 4b66d5e9d0e785f914b05495f5a073057955f9ab[m
+Author: JhonJimenez <jhon.jimenez@siemens-energy.com>
+Date:   Mon Mar 10 06:57:23 2025 -0500
+
+    primer commit
